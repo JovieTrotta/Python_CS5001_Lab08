@@ -1,0 +1,10 @@
+don't try to do everything at once, work on a subset of data first
+use the strip method
+remove all quotes
+
+checks base case
+draws a bix which is base
+left side recursive call 
+right side recursive call
+
+you can set base case in the function
